@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://crudMongo:crudMongo@cluster0.rzjbocu.mongodb.net/?retryWrites=true&w=majority    
+      database : Task
