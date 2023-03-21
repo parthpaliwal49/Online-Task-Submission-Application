@@ -13,7 +13,3 @@
 # Built With
 <font size="2">Spring Boot - The web framework used.<font>  
 <font>MongoDB - The database used.<font>  
-
-
-# Authors
-<font size="2">Parth Paliwal PAT-2023<font>  
